@@ -3,11 +3,13 @@ main:
   - title: "Home"
     url: /
     
+  - title: "Education & Awards"
+    url: /education-awards/
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "Education & Awards"
-    url: /education-awards/    
+      
     
   - title: "Projects"
     url: /projects/

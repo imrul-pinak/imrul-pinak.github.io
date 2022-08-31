@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Md Imrul Kaisar"
   avatar           : "profile.jpg"
-  bio              : "I want to enable machines to interact intelligently with people via natural language."
+  bio              : "I want to enable ... ..."
   location         : "127.0.0.1"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qoeylgEAAAAJ&view_op=list_works&sortby=pubdate"
   DBLP             : "https://dblp.uni-trier.de/pers/hd/n/Nayeem:Mir_Tafseer"
-  email            :  tafseer.nayeem@gmail.com
+  email            :   imrul.pinak@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tafseer-nayeem"
+  github           : "imrul-pinak"
   google_plus      :
   keybase          :
   instagram        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mtnayeem"
+  twitter          : #"mtnayeem"
   vine             :
   weibo            :
   xing             :
