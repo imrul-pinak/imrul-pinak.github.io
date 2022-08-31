@@ -16,7 +16,7 @@ My name is Md Imrul Kaisar Pinak. I graduated with a M.S. in Fisheries Managemen
 Currently, I am working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse), Dhaka, Bangladesh. 
 -->
 
-**For additional information, please see my [CV](https://tafseer-nayeem.github.io/cv/) and [publications](https://tafseer-nayeem.github.io/publications/).**
+**For additional information, please see my [CV](https://imrul-pinak.github.io/cv/) and [publications](https://imrul-pinak.github.io/publications/).**
 
 
 <!-- <a href="https://tafseer-nayeem.github.io/publications/"> <img src="https://tafseer-nayeem.github.io/images/pubs.png" alt="Publication Venues"
