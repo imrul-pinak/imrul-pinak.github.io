@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Download Full CV](https://tafseer-nayeem.github.io/files/resume_tafseer.pdf) <span style ="color:Green"> [<ins>*Last Updated on Jan 12, 2021*</ins>] </span>
+[Download Full CV](https://imrul-pinak.github.io/files/resume_pinak.pdf) <span style ="color:Green"> [<ins>*Last Updated on Jan 12, 2021*</ins>] </span>
 
 ## Contact Me
 -------------
