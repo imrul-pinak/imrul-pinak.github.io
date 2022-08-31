@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Home"
+    url: /
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Education & Awards"
+    url: /education-awards/    
+    
+  - title: "Projects"
+    url: /projects/
+    
+  #- title: "Blog Posts"
+    #url: /blog-posts/ 
+    
+  - title: "Activities"
+    url: /activities/
+      
+  - title: "CV"
+    url: /cv/
