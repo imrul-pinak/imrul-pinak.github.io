@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mir Tafseer Nayeem"
+title                    : "Md Imrul kaisar"
 title_separator          : "-"
-name                     : &name "Mir Tafseer Nayeem"
+name                     : &name "Md Imrul kaisar"
 description              : &description "personal description"
-url                      : https://tafseer-nayeem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://imrul-pinak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tafseer-nayeem/tafseer-nayeem.github.io"
+repository               : "imrul-pinak/imrul-pinak.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mir Tafseer Nayeem"
+  name             : "Md Imrul Kaisar"
   avatar           : "profile.jpg"
   bio              : "I want to enable machines to interact intelligently with people via natural language."
   location         : "127.0.0.1"
