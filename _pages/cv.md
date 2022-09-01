@@ -15,7 +15,7 @@ author_profile: true
 [comment]: # &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; mir.nayeem [at] alumni [dot] uleth [dot] [*first 2 letters in “canada”*], <br />
 📒 **Website:** [https://imrul-pinak.github.io](https://imrul-pinak.github.io/) <br />
 
-You can also find me on [LinkedIn](https://twitter.com/mtnayeem) 
+You can also find me on [LinkedIn](https://imrul-pinak.github.io/) 
 
 
 **Address:**
