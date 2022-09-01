@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Activities"
+title: "Professional Experiences"
 permalink: /activities/
 author_profile: true
 ---
 
-# Professional Experiences
 
 ## 👨‍💻 Executive Customer Services -Aqua
 -------------------------
