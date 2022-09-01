@@ -5,20 +5,20 @@ permalink: /activities/
 author_profile: true
 ---
 
-## 👨‍💻 Professional Services
+# Professional Experiences
+
+## 👨‍💻 Executive Customer Services -Aqua
 -------------------------
 
-1. **Program Committee/Reviewer**
-	- **2021:** [AAAI](https://aaai.org/Conferences/AAAI-21/)*
-	- **2020:** [ICCIT](http://iccit.org.bd/2020/) 
-	- **2019:** [ACL](https://acl2019.org/EN/index.xhtml.html)*, [ICIET](http://www.enggtech.du.ac.bd/iciet-2019/)
-	- **2015:** [IEEE SysCon](https://2021.ieeesyscon.org/)
-2. **Journal Reviewer**
-	- [IJSSCI](https://www.igi-global.com/journal/international-journal-software-science-computational/1124), [Computer Speech & Language](https://www.journals.elsevier.com/computer-speech-and-language)
 
-## 👨‍🏫 Invited Talks
-----------------
-- <span style="color:Blue"> [Apr 2017] </span> - Talk on [Introduction to NLTK](https://tafseer-nayeem.github.io/files/Introduction_to_NLTK.pdf), University of Lethbrdige, Alberta, Canada. 
+* [ACI Ltd.](https://www.bau.edu.bd/), Mymensingh, Bangladesh.
+* **CGPA: 3.836** <span style ="color:Green"> [*out of 4.00* ] </span>
+* **Thesis Title:** [*"Economic and environmental benefits of reduced feed and
+fertilizers inputs of Climbing perch-carp polyculture systems"*]
+* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://tafseer-nayeem.github.io/files/MSc_Thesis_Presenation.pdf) 
+* **Supervisor:** [Dr. Yllias Chali](http://www.cs.uleth.ca/~chali/), Professor, CS Department.
+* **Committee Members:** [Dr. Wendy Osborn](http://directory.uleth.ca/users/wendy.osborn), [Dr. John Anvik ](http://directory.uleth.ca/users/john.anvik)
+
 
 ## 👨‍⚖️ Leadership Activities
 ------------------------

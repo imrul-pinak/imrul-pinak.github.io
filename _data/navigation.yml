@@ -6,6 +6,10 @@ main:
   - title: "Education & Awards"
     url: /education-awards/
     
+  - title: "Professional Experience"
+    url: /activities/
+    
+    
   - title: "Publications"
     url: /publications/
 
@@ -14,8 +18,7 @@ main:
   #- title: "Blog Posts"
     #url: /blog-posts/ 
     
-  - title: "Activities"
-    url: /activities/
+
       
   - title: "CV"
     url: /cv/
