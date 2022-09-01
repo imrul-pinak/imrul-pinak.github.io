@@ -10,7 +10,7 @@ redirect_from:
 
 Thanks for stopping by!
 
-My name is Md Imrul Kaisar Pinak. I graduated with a M.S. in Fisheries Management from the [Bangladesh Agricultural University (BAU)](https://www.bau.edu.bd/), Mymensingh, Bangladesh. I also worked as a Executive Customer Services -Aqua at ACI Ltd. My research interests include, but are not limited to, Fisheries, Aquaculture, Environmental Science & Respective Fields. My work was nominated for [<span style="color:Red"> **Award**</span>](http://coling2018.org/coling-2018-best-papers/) and selected as <span style="color:Red"> **Favorite** </span> at [demo text](https://imrul-pinak.github.io/). 
+My name is Md Imrul Kaisar Pinak. I graduated with a M.S. in Fisheries Management from the [Bangladesh Agricultural University (BAU)](https://www.bau.edu.bd/), Mymensingh, Bangladesh. I also worked as a Executive Customer Services -Aqua at ACI Ltd. My research interests include, but are not limited to, Fisheries, Aquaculture, Environmental Science & Respective Fields. My work was nominated for [<span style="color:Red"> **Award**</span>](https://imrul-pinak.github.io/) and selected as <span style="color:Red"> **Favorite** </span> at [demo text](https://imrul-pinak.github.io/). 
 
 <!--
 Currently, I am working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse), Dhaka, Bangladesh. 
