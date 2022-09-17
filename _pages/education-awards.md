@@ -15,8 +15,8 @@ author_profile: true
 * **Thesis Title:** [*"Economic and environmental benefits of reduced feed and
 fertilizers inputs of Climbing perch-carp polyculture systems"*]
 * **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://imrul-pinak.github.io/) 
-* **Supervisor:** [Dr. X](https://imrul-pinak.github.io/), Professor, Y Department.
-* **Committee Members:** [Dr. R](https://imrul-pinak.github.io/), [Dr. Z ](https://imrul-pinak.github.io/)
+* **Supervisor:** [Dr. Shahroz Mahean Haque](https://www.bau.edu.bd/profile/FM1008), Professor, Department of fisheries management, BAU.
+* **Committee Members:** [Prof. Dr. Md. Jasim Uddin], [Prof. Dr. Mst. Kaniz Fatema], [Prof. Dr. Nesar Ahmed], [Prof.  Dr. Zoarder Faruque Ahmed]
 
 
 ## 🎓 B.Sc. in Fisheries
@@ -27,7 +27,7 @@ fertilizers inputs of Climbing perch-carp polyculture systems"*]
 * **CGPA: 3.38** <span style ="color:Green"> [*out of 4.00* ] </span>
 * **Thesis title:** [*"Diversity of Aquatic Weeds at Noakhali Sadar in Bangladesh"*] 
 * **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://imrul-pinak.github.io/) 
-* **Supervisor:** [Dr. X](https://imrul-pinak.github.io/), Professor, Z Department.
+* **Supervisor:** [Ripon Kumar Adhikary](https://scholar.google.com/citations?user=0JyVo0EAAAAJ&hl=en), Assistant professor (Study leave), NSTU.
 
 
 <!-- <a href="https://tafseer-nayeem.github.io/education-awards/"> <img src="https://tafseer-nayeem.github.io/images/educations.png" alt="Education"
