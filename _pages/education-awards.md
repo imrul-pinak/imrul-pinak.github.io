@@ -26,7 +26,6 @@ fertilizers inputs of Climbing perch-carp polyculture systems"*]
 * [Noakhali Science and Technology University (NSTU)](https://nstu.edu.bd/), Noakhali, Bangladesh.
 * **CGPA: 3.38** <span style ="color:Green"> [*out of 4.00* ] </span>
 * **Thesis title:** [*"Diversity of Aquatic Weeds at Noakhali Sadar in Bangladesh"*] 
-* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://imrul-pinak.github.io/) 
 * **Supervisor:** [Ripon Kumar Adhikary](https://scholar.google.com/citations?user=0JyVo0EAAAAJ&hl=en), Assistant professor (Study leave), NSTU.
 
 
