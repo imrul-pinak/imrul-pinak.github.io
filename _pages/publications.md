@@ -10,7 +10,7 @@ author_profile: true
 ## Journal Articles
 -----------
 * [**Diversity of Aquatic Weeds at Noakhali Sadar in Bangladesh”**](https://imrul-pinak.github.io/)<br/>
-🤓 **Kaisar, Md Imrul et al. (2016).**, and others <span style ="color:BlueViolet"> </span> <br/>
+👉 **Kaisar, Md Imrul et al. (2016).**, and others <span style ="color:BlueViolet"> </span> <br/>
 📰 American Journal of Scientific and Industrial Research(https://imrul-pinak.github.io/) <br/> 
 👉 [<span style ="color:Green"> [**Presentation**] </span>](https://imrul-pinak.github.io/) 
 

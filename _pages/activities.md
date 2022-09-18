@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 
-## 👨‍💻 Senior Executive Aqua Services (18.03-2017 to present)
+## 👨‍💻 Senior Executive Aqua Services 
 -------------------------
 
-
-* [ACI Ltd.](https://www.aci-bd.com/), Mymensingh, Bangladesh.
+* [Department: ACI Animal Health]
+* [Duration: 18th March 2017 to present]
+* [Posting Area: Kishoreganj]
+* [Advanced Chemical Industries Limited (ACI Limited)](https://www.aci-bd.com/), Bangladesh.
 
 
 ## 👨‍⚖️ Leadership Activities
