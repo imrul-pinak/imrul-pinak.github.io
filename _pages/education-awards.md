@@ -14,7 +14,7 @@ author_profile: true
 * **CGPA: 3.836** <span style ="color:Green"> [*out of 4.00* ] </span>
 * **Thesis Title:** [*"Economic and environmental benefits of reduced feed and
 fertilizers inputs of Climbing perch-carp polyculture systems"*]
-* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://imrul-pinak.github.io/) 
+* **Thesis Presentation:** [<span style ="color:Green"> [**Presentation**] </span>](https://imrul-pinak.github.io/files/M.S. Presentation.pdf) 
 * **Supervisor:** [Dr. Shahroz Mahean Haque](https://www.bau.edu.bd/profile/FM1008), Professor, Department of fisheries management, BAU.
 * **Committee Members:** [Prof. Dr. Md. Jasim Uddin], [Prof. Dr. Mst. Kaniz Fatema], [Prof. Dr. Nesar Ahmed], [Prof.  Dr. Zoarder Faruque Ahmed]
 
