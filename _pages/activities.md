@@ -9,7 +9,7 @@ author_profile: true
 ## 👨‍💻 Senior Executive Aqua Services 
 -------------------------
 
-* **ACI Animal Health,** [ACI Limited](https://www.aci-bd.com/)
+* **ACI Animal Health,** **[ACI Limited](https://www.aci-bd.com/)**
 * **Duration:** 18th March 2017 to Present
 * **Posting Area:** Kishoreganj, Bangladesh
 
