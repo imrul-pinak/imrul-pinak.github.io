@@ -9,12 +9,17 @@ author_profile: true
 
 ## Journal Articles
 -----------
-* [**Diversity of Aquatic Weeds at Noakhali Sadar in Bangladesh”**](https://imrul-pinak.github.io/)<br/>
-👉 **Kaisar, Md Imrul et al. (2016).**, and others <span style ="color:BlueViolet"> </span> <br/>
-📰 American Journal of Scientific and Industrial Research(https://imrul-pinak.github.io/) <br/> 
-👉 [<span style ="color:Green"> [**Presentation**] </span>](https://imrul-pinak.github.io/) 
 
+* [**Diversity of Aquatic Weeds at Noakhali Sadar in Bangladesh”**]<br/>
+👉 **Md.Imrul Kaisar**, Ripon Kumar Adhikary, Moon Dutta and Shuva Bhowmik. (2016) <span style ="color:BlueViolet"> </span> <br/>
+📰 **American Journal of Scientific and Industrial Research** <br/> 
+👉 [<span style ="color:Green"> [**Paper**] </span>](http://scihub.org/media/ajsir/pdf/2016/11/AJSIR-7-4-117-128.pdf) 
 
+* [**Economic and Environmental Benefits of Reduced Feed and Fertilizers Inputs of Climbing Perch in
+Carp Polyculture Systems”**]<br/>
+👉 **Md.Imrul Kaisar**, A K Jilani Chowdhury, Shahroz Mahean Haque, Ummy Habiba
+Sweety, Moon Dutta, Tanima Emran and Md Asadujjaman. (2022) <span style ="color:BlueViolet"> </span> <br/>
+📰 **Under Review** <br/> 
 
 
 <br/>
@@ -22,9 +27,7 @@ author_profile: true
 # Favorite Quotes
 -------------------
 
-[**Back to Top**](#)
-
-<img src="https://imrul-pinak.github.io/images/quotes.png" alt="Favorite Quotes"
+<img src="https://imrul-pinak.github.io/images/Quote-Images-4.jpg" alt="Favorite Quotes"
 	title="Favorite Quotes" width="840" height="70">
 
 *Image Source: Google Image Search*

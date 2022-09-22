@@ -27,16 +27,8 @@ author_profile: true
 * **AquaFish Innovation Lab (Investigation-03), BAU** 
 * **Duration:** Jan 2015 - Dec 2015
 
-## 👨‍⚖️ Leadership Activities
-------------------------
-
-- **Organizer and Host:** [X- Workshop](https://imrul-pinak.github.io/).
-- Member, *X Students Association' Organization at the NSTU*, Noakhali, Bangladesh.. 
-- Organizing committee member in the **NSTU Y Fest 2011**, Noakhali, Bangladesh.
-
-----------------------
 
 [**Back to Top**](#)
 
-\* [*invited*]
+
 
