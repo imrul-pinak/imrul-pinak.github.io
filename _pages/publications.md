@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[ [**Google Scholar**](https://imrul-pinak.github.io/) \|  [**Favorite Quotes**](#favorite-quotes) ]
+[ [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=nzs2ZP8AAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F4mnsp_UlDKDHoPLOhoDRHv-CSAYeVFxYiPCEljmNng2JftjJQK9hpYpcq4ueQibrGYglq4DN9YHBGCoRMXOQEZzfzwd4lIaJBKdVqWx7CvAKzSwyc) \|  [**Favorite Quotes**](#favorite-quotes) ]
 
 ## Journal Articles
 -----------

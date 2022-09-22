@@ -17,12 +17,13 @@ author_profile: true
 -------------------------
 
 * **[BRAC](http://www.brac.net/)** 
+* **BRAC Fisheries Enterprise**
 * **Duration:** Mar 2016 - Jun 2016
 
 ## 👨‍💻  Research Assistant
 -------------------------
 
-* **[USAID] (https://www.usaid.gov/)** 
+* **[USAID](https://www.usaid.gov/)** 
 * **AquaFish Innovation Lab (Investigation-03), BAU** 
 * **Duration:** Jan 2015 - Dec 2015
 
