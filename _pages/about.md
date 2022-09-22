@@ -28,12 +28,6 @@ I want to contribute to the progress of science and eventually to the mankind as
 
 
 
-
-## Recent Project Demonstrations 
-
-* 💻 Demo Text [[link]](https://imrul-pinak.github.io/).
-* 💻 Demo Text [[link]](https://imrul-pinak.github.io/).
-
 ----------------------------------------
 
 [**Back to Top**](#)
