@@ -9,20 +9,20 @@ author_profile: true
 ## 👨‍💻 Senior Executive Aqua Services 
 -------------------------
 
-* **ACI Animal Health,** (ACI Limited)(https://www.aci-bd.com/)
+* **ACI Animal Health,** [ACI Limited](https://www.aci-bd.com/)
 * **Duration:** 18th March 2017 to Present
-* **Posting Area:** Kishoreganj
+* **Posting Area:** Kishoreganj, Bangladesh
 
 ## 👨‍💻  Research Assistant
 -------------------------
 
-* **BRAC,** (http://www.brac.net/)
+* **[BRAC](http://www.brac.net/)** 
 * **Duration:** Mar 2016 - Jun 2016
 
 ## 👨‍💻  Research Assistant
 -------------------------
 
-* **USAID,** (https://www.usaid.gov/)
+* **[USAID] (https://www.usaid.gov/)** 
 * **AquaFish Innovation Lab (Investigation-03), BAU** 
 * **Duration:** Jan 2015 - Dec 2015
 
