@@ -9,11 +9,22 @@ author_profile: true
 ## 👨‍💻 Senior Executive Aqua Services 
 -------------------------
 
-* [Department: ACI Animal Health]
-* [Duration: 18th March 2017 to present]
-* [Posting Area: Kishoreganj]
-* [Advanced Chemical Industries Limited (ACI Limited)](https://www.aci-bd.com/), Bangladesh.
+* **ACI Animal Health,** (ACI Limited)(https://www.aci-bd.com/)
+* **Duration:** 18th March 2017 to Present
+* **Posting Area:** Kishoreganj
 
+## 👨‍💻  Research Assistant
+-------------------------
+
+* **BRAC,** (http://www.brac.net/)
+* **Duration:** Mar 2016 - Jun 2016
+
+## 👨‍💻  Research Assistant
+-------------------------
+
+* **USAID,** (https://www.usaid.gov/)
+* **AquaFish Innovation Lab (Investigation-03), BAU** 
+* **Duration:** Jan 2015 - Dec 2015
 
 ## 👨‍⚖️ Leadership Activities
 ------------------------
