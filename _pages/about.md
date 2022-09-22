@@ -10,11 +10,17 @@ redirect_from:
 
 Thanks for stopping by!
 
-My name is Md Imrul Kaisar Pinak. I graduated with a M.S. in Fisheries Management from the [Bangladesh Agricultural University (BAU)](https://www.bau.edu.bd/), Mymensingh, Bangladesh. I also worked as a Executive Customer Services -Aqua at ACI Ltd. My research interests include, but are not limited to, Fisheries, Aquaculture, Environmental Science & Respective Fields. My work was nominated for [<span style="color:Red"> **Award**</span>](https://imrul-pinak.github.io/) and selected as <span style="color:Red"> **Favorite** </span> at [demo text](https://imrul-pinak.github.io/). 
+I have completed M.S. in Fisheries Management from [Bangladesh Agricultural University (BAU)](https://www.bau.edu.bd/), Bangladesh and B.Sc. (Honours) in Fisheries from Noakhali Science and Technology University (NSTU), Bangladesh.
 
-<!--
-Currently, I am working as a faculty member at [Ahsanullah University of Science and Technology (AUST)](https://www.aust.edu/cse), Dhaka, Bangladesh. 
--->
+Now I'm working as a Senior Executive - Aqua at ACI Animal Health since March, 2017. My major responsibilities are conducting research on efficiency of different chemicals and drugs in fish and fisheries product on trial basis, providing advisory support and conduct the clinical meeting to develop aquaculture industry of Bangladesh.
+
+In addition, I had been fortunate enough to work as a Research Assistant (RA) in a USAID funded project for one year and BRAC Fisheries Enterprise for four months.
+
+My research interests include aquatic ecology, fisheries, environmental science and aquaculture, Food nutritional content and food safety.
+
+I want to contribute to the progress of science and eventually to the mankind as well.
+
+
 
 **For additional information, please see my [CV](https://imrul-pinak.github.io/cv/)**
 

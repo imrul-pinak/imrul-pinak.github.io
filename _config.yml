@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Md Imrul Kaisar"
   avatar           : "profile.jpg"
-  bio              : "I want to enable ... ..."
+  bio              : "Senior Executive - Aqua"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://imrul-pinak.github.io/"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=nzs2ZP8AAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F4mnsp_UlDKDHoPLOhoDRHv-CSAYeVFxYiPCEljmNng2JftjJQK9hpYpcq4ueQibrGYglq4DN9YHBGCoRMXOQEZzfzwd4lIaJBKdVqWx7CvAKzSwyc"
   DBLP             : "https://dblp.uni-trier.de/pers/hd/n/Nayeem:Mir_Tafseer"
   email            :   imrul.pinak@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "imrul-pinak"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/md-imrul-kaisar-40731b24b/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
