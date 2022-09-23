@@ -10,11 +10,15 @@ redirect_from:
 
 Thanks for stopping by!
 
-I have completed M.S. in Fisheries Management from [Bangladesh Agricultural University (BAU)](https://www.bau.edu.bd/), Bangladesh and B.Sc. (Honours) in Fisheries from Noakhali Science and Technology University (NSTU), Bangladesh.
+I have completed M.S. in Fisheries Management from [Bangladesh Agricultural University (BAU)](https://www.bau.edu.bd/), 
+Bangladesh and B.Sc. (Honours) in Fisheries from [Noakhali Science and Technology University (NSTU)](https://nstu.edu.bd/), Bangladesh. 
+I had been fortunate enough to work as a Research Assistant (RA) in a [USAID](https://www.usaid.gov/) funded 
+project for one year and [BRAC](http://www.brac.net/) Fisheries Enterprise for four months. Now I'm working as a 
+Senior Executive - Aqua at [ACI Animal Health](https://www.aci-bd.com/). My major responsibilities are conducting 
+research on efficiency of different chemicals and drugs in fish and fisheries product 
+on trial basis, providing advisory support and conduct the clinical meeting 
+to develop aquaculture industry of Bangladesh.
 
-Now I'm working as a Senior Executive - Aqua at ACI Animal Health since March, 2017. My major responsibilities are conducting research on efficiency of different chemicals and drugs in fish and fisheries product on trial basis, providing advisory support and conduct the clinical meeting to develop aquaculture industry of Bangladesh.
-
-In addition, I had been fortunate enough to work as a Research Assistant (RA) in a USAID funded project for one year and BRAC Fisheries Enterprise for four months.
 
 My research interests include aquatic ecology, fisheries, environmental science and aquaculture, Food nutritional content and food safety.
 
