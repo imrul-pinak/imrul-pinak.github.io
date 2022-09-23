@@ -38,10 +38,9 @@ fertilizers inputs of Climbing perch-carp polyculture systems"*
 # Awards
 ---------
 
-* 🏆 <span style="color:Blue"> **“Five Times Knowledge Star Award”** </span> organized by **ACI Training Department**.
-* 🏆 [<span style="color:Red"> **“Knowledge Star Award”** </span>](https://imrul-pinak.github.io/) at **Demo**.
-* 🏆  [<span style="color:Red"> **“2nd NSTU debate festival”** </span>](https://imrul-pinak.github.io/) paper at **Demo**.
-* 🏆  **X** Student Travel Grant (2017) [*Amount: 800 USD*]
+* 🏆 <span style="color:Blue"> **“Five Times Knowledge Star Award”** </span> organized by **ACI Training Department**
+* 🏆 <span style="color:Blue"> **“Got prize in 2nd NSTU debate festival”** </span> 
+* 🏆  **Champion** NSTU Inter Department Football Tournament, 2009. [*Amount: 800 USD*]
 
 
 
