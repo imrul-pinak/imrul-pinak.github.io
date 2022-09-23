@@ -39,7 +39,7 @@ fertilizers inputs of Climbing perch-carp polyculture systems"*
 ---------
 
 * 🏆 <span style="color:Blue"> **“Five Times Knowledge Star Award”** </span> organized by **ACI Training Department**
-* 🏆 <span style="color:Blue"> **“Got prize in 2nd NSTU debate festival”** </span> 
+* 🏆 <span style="color:Blue"> **“Got Prizes in 2nd NSTU Debate Festival”** </span> 
 * 🏆  **Champion;** NSTU Inter Department Football Tournament, 2009. 
 
 
