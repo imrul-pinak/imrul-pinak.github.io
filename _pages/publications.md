@@ -19,7 +19,7 @@ author_profile: true
 Carp Polyculture Systems”</span><br/>
 👉 **Md.Imrul Kaisar**, A K Jilani Chowdhury, Shahroz Mahean Haque, Ummy Habiba
 Sweety, Moon Dutta, Tanima Emran and Md Asadujjaman. (2022) <span style ="color:BlueViolet"> </span> <br/>
-📰 **Under Review** <br/> 
+📰 **Journal of Pharmacology and Toxicology (Under Review)** <br/> 
 
 
 <br/>
