@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## 👨‍💻 Senior Executive Aqua Services 
+## 👨‍💻 Senior Executive Aqua
 -------------------------
 
 * **ACI Animal Health,** **[ACI Limited](https://www.aci-bd.com/)**
